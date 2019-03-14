@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\bin\Debug\ilk_proje.exe.config
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\bin\Debug\ilk_proje.exe
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\bin\Debug\ilk_proje.pdb
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\obj\Debug\ilk_proje.csprojResolveAssemblyReference.cache
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\obj\Debug\ilk_proje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\obj\Debug\ilk_proje.exe
+C:\Users\Hp\source\repos\ilk_proje\ilk_proje\obj\Debug\ilk_proje.pdb
